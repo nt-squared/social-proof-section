@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-using-css-grid-mjpAPabtfJ](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-using-css-grid-mjpAPabtfJ)
-- Live Site URL: [https://nt-squared.github.io/huddle-landing-page-with-single-introductory-section/](https://nt-squared.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-rvdldl2cx1](https://www.frontendmentor.io/solutions/social-proof-section-rvdldl2cx1)
+- Live Site URL: [https://nt-squared.github.io/social-proof-section/](https://nt-squared.github.io/social-proof-section/)
 
 ## My process
 
