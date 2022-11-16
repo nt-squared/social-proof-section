@@ -155,6 +155,7 @@ main {
         width: min(100%, 1150px);
         display: grid;
         grid-template-columns: 2fr 3fr;
+        grid-template-rows: 1fr 30vh;
         gap: 4rem 1rem;
     }
 
@@ -172,6 +173,7 @@ main {
         align-items: center;
         justify-content: start;
         gap: 2rem;
+        width: 100%;
         padding-inline: 2rem;
     }
 
@@ -183,17 +185,6 @@ main {
 
     .review {
         padding: 2.25rem;
-    }
-}
-
-@media screen and (min-width: 60em) {
-    main {
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 28vh;
-    }
-
-    .intro, .rate {
-        width: 80%;
     }
 
     :is(.rate, .review):nth-child(1) {
@@ -207,6 +198,16 @@ main {
     :is(.rate, .review):nth-child(3) {
         align-self: end;
     }
+}
+
+@media screen and (min-width: 60em) {
+    main {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .intro, .rate {
+        width: 80%;
+    } 
 }
 
 
